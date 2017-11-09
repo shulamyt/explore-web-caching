@@ -1,0 +1,23 @@
+{
+  "name": "explore-web-caching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shulamyt/explore-web-caching.git"
+  },
+  "author": "sajami <sajami@amdocs.com> (sajami@amdocs.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shulamyt/explore-web-caching/issues"
+  },
+  "homepage": "https://github.com/shulamyt/explore-web-caching#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
