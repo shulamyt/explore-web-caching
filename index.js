@@ -1,5 +1,5 @@
 function init(){
-	console.log("script is here");
+	console.log("index.js");
 }
 
 init();
